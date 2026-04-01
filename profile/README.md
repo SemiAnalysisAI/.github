@@ -5,4 +5,4 @@ Open Source Projects By SemiAnalysis in collaboration with the community. Infere
 # Projects
 1. [InferenceX™: Open Source Continuous Inference Benchmarking & Research Platform](https://github.com/SemiAnalysisAI/InferenceX)
 2. [InferenceX™ Frontend Dashboard](https://github.com/SemiAnalysisAI/InferenceX-app)
-3. Assembly MicroBenchmarking Repo Soon™
+3. [Assembly MicroBenchmarking Repo](https://github.com/SemiAnalysisAI/microbench-blackwell)
