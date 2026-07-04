@@ -1,11 +1,5 @@
 # SemiAnalysisAI Open Source Projects
 
-<div align="center">
-
-[**English**](#semianalysisai-open-source-projects) | [中文](#semianalysisai-开源项目)
-
-</div>
-
 Open Source Projects By SemiAnalysis in collaboration with the community. InferenceX™, Assembly ISA level microbenchmarking, AMDGPU LLVM & NVIDIA ptxas Compiler Fuzzing
 
 # Projects
